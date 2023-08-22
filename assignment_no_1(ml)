@@ -1,0 +1,106 @@
+1.
+ans=Machine learning is the art or the science of programing that can learn from data.In Machine
+learning we can able to predict the output 
+
+2.
+ans=1.forcasting the next year revenu generation according to the many performance metrics
+This is regression task that can be solved by linear regression or polynomial regression model .It can 
+be also solved by svm regressor regression random forest
+
+2.detection of credit card fraud 
+3.representing the complex data,high dimenssional dataset in clear and understanable diagram
+4.segmenting the clients based on their purchases so that you can design different market sratagy
+
+3.
+Ans=In supervised learning the traning set you feed to the algorithm include the desired solutions called label
+,and dataset called traning dataset.
+This traning dataset contain the feature other than the target value which mainly affect the prediction
+
+4.
+Ans=The main task of the supervised learning is classification and other one is regression which mean to predict
+the value of the targeted feature(called predictor)
+simple linear regression,polynomial regression , logistic regression , svm , decision tree ,random forest are some comman algorithms used in the 
+supervised learning 
+
+note :- some classification algorithm are used for regression and vice versa
+
+5.
+Ans:-The data provided is unlabeled ,dimentionality reduction and anomaly detecction is the manin task of the unsupervised ml 
+1.we launch some product for the analysis of the sell of the product we use the clustering in which range of age it is popular,
+in which area its sell is more that parameters we can predict
+2.recommandation system for organiser
+3. target market campaign
+4.data visulation 
+
+6.
+Ans=Reinforcement and deeplearning is used for the train the robots to perform in various conditions
+
+7.
+ans=unsupervised learning model of the machine learning k-means ,DBSCAN, Hierarchial clustering
+
+8.
+The Spam detection is supervised learning problem .but it can be solved by unsupervised learning also
+by using unsupervised learning also takl this problem by using clustering
+
+9.
+Ans=In online learning the train data is feed incrementally and sequentially either indivisual or in mini batch
+each learning step is fast and cheap so the system cam learn about new data in the fly as ut arrives
+this is good for the dydtem that recives continous data or in adaptive change  
+ 
+10
+Ans=Online learning algorithms can also train the huge dataset that can not fit in machine memory
+calls the out of core learning .in the core learning we use the memory from same machine 
+
+11.
+instance based leaning algorithms that reliese on similarity measure makes prediction 
+
+12.
+Ans= model parameters is the terms used in the equation used in the model
+for eg.in simple linear regression the equation is y=mx+c ,
+the parameters is m=slope ,c=intercept and hyperparameters is the value is set before the traning the model 
+
+13. 
+Ans=The criteria for the algorithm look for
+1. Wether or not they are trained with  humans supervision (supervised,unsupervised,semi supervised or reainforcement learning)
+2.weather or not they learn incrementally on the fly (online or batch )
+3.weather they work by simple comparing new data point to known data points, or insted by detecting patterns in the traning data and building 
+and building a predictive model,much like scientists do (instance based or model based)
+
+note:- insatance based learning is based on the data provided for the traning purpose and model based learning is based on the generalies pattern 
+which is created by model .model based model is preffered because 
+
+note:- batch learning(offline learning ) is the machine learning model is used batches for the train the model this is good for the offline puprpose 
+but if your data is continously changing then it  is not working properly in that case 
+we use the online learning this machine learning thchnique is used for rapidly changing the data and need to incremental changes in the data and learn 
+by the new data (it is tricky and risky)
+
+in between the instance learning or model learning the model learning is use 
+generally used model (supervised,unsupervised or reinforcement learning )
+
+14.
+Ans:-
+1. presenting the null values in the dataset 
+2. presenting the outliers in the dataset it affect the mean 
+3. large spared data it affets the data predicting the very large value or very small value 
+4. working of the data after the deployment on server 
+5. overfiting data and under fitting data 
+
+15.
+Ans= it is the condition of overfitting or underfitting . solution for this is provide big data or use the simpler 
+algorithem reducing the number of parameters or feature learning or regularalisation of model
+
+16. 
+Ans:-A test set is used to estimate the generalisation error that a model will make in new instance before 
+the model is launched in production
+
+17.
+Ans:- a validation set is used to compare models . it makes it possible to select
+the best model and tune the hyperparameters
+
+18.
+Ans = The train dev set is used when there is risk of mismatch between the traning data and data used in the validation 
+and test dataset 
+
+19
+Ans:=if you tune hyper parameters using the test set toy risk overfitting the test set and the 
+genetalization error you measere will be optimistic 
