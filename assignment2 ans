@@ -1,0 +1,74 @@
+1.
+Ans:- human can learn various things by their sensences that information is feed to the
+nurons after the analysis the neuron system gives the conclusion also human think about 
+that information in this way the human can learn .
+1.its best example is that the child learning consider the baby touches the fire and burns 
+the skin and feel the injury after that when he see the fire he can not touch its
+2.if anyone can contact with us from many time then we can able to identify them immedietly
+
+
+2.
+Ans:-it can be similar like the machine learning because human also able to predict the output 
+after the analysis but humans are more superior  than any system because it contain visual sensing 
+and many more types of the input data
+
+3.
+ANs:-Machine learning is the techonology that we used for prediction ,recomandation 
+by the traning of the machine by providing the input data to that machine so thar the 
+prediction will be accurate
+
+4.
+Ans:-If the task is as per the traning then it will give the reward and if it is 
+out of the task then it gives the penalty according to the reward and penalty the output 
+is desided 
+
+5.
+ANs:-The task of searching through a large space of hupotheses implicitly defined by the hypothesis
+recomandation representation 
+
+6.
+Ans:-Machine learning is used for the prediction,recomandation it is similar to the human learnig in human 
+learning is more efficient as it processoes the input more efficiently
+
+7.
+Ans:-Machine learning is used for various purposes in the business analysis it can 
+predict cost of the product as per the demmand ,sale 
+-it is also work in the filed  of the recognisation ,recomendation,classifying the various things 
+
+9.
+Ans:-ability to adapt proprly to new ,previously unseen data,drawn from the same distribution
+as the one used to create the model 
+
+10
+Ans:-classification is supervised learnig type of the machine learning it predict the output as per the classification 
+of the target feature it's output feature is discrete type variable
+regression it is also supervised ml type it create the best fit line for the dataset and it is continous type of dataset
+
+
+11.
+Ans:-It is the supervised technic to predict the continous values.
+predicting the price of the house according to the various feature 
+predicting the bmi of the person by its height and weight 
+
+12.
+Ans:-clustering is the unsupervised technic of machine learning it creates the cluster means group of the similar
+type  osf the data from the traning the data set according to that the testing data
+is predicted and it adjus the test data
+
+13.
+Ans:-
+i. Machine learnin has various type of algorithms like linear type of the algorithms simplelinearregression,
+linearregression,ridge,lasso,elasticnet it create the best fit line according to train data 
+to predict with more accuracy 
+we also have tree like algorithms like DecisionTree,Randomforest ,
+svm (support vector machine),for the unsupervised it has k-mean clustering 
+
+ii.supervised learning :- it is the machine lerning which create the prediction by labbled data set
+                         it can be classified into classification and regression
+                         classification is predict the discrete variable by taking input of the labbled dataset
+                         resgression is prediction if the continous type of variable by taking the labled dataset
+
+                         
+
+
+
