@@ -1,0 +1,127 @@
+1.Explain the term machine learning, and how does it work? Explain two machine learning
+applications in the business world. What are some of the ethical concerns that machine learning
+applications could raise?
+
+Ans:-Machine learning is the technique/science which is used to for the learning from data
+performing operations to giving the result/prdict the result that is used for the various usefull works in the business.
+1.Movies Recomendationfor the customer used in the various platforms like the netflix,amazon prime,disney +hotstar
+2.prediction for various factor used in the business like sales percentage,customer churn prediction,various disease or not
+Ethical concern
+1.Accuracy of the data , safety and security of the data , privacy 
+2.Environment of the machine learning model 
+3. Treansparansy
+
+
+2.
+Ans:-
+i. Under the supervision of experts:-
+in the supervision the process is the under ovservation of the one person many of the operations are fixed in this process
+only we need to process it according to our requirment 
+
+ii.With the assistance of experts in an indirect manner:-
+here we take the help of the expert in this operation it may have the some process not specified it can be find out by that
+expert assistance 
+
+iii.elf-education:-
+in the self-eduction all the task is completed by the machine also so that no need to hire to handdle the operation or the process
+
+
+3.Provide a few examples of various types of machine learning.
+
+Ans:- thier are 3 types of the machine learning 1.supervised 2.unsupervised 3.rainforcement learning
+1.supervised learning:- The data is used for this learning is the labeled .
+their are 2 subtype of this learning classification and regression 
+i.classification :-this type of learning can predict the discrete varible.
+ii.regression:-this type of learning contain the data which is continous type of variable
+
+2.unsupervised :- The data used in this learning is unlabbled it has the continous type of data.
+In this learning the data is trained in by the pattern like structure. It creates the cluster according to that cluster it matchees
+the data and create the prediction according to it 
+
+3.Reinforcement learninf:-This learning is based on the reward .if the machine work correct according to our instruction it gives the 
+good reward and if machine do against the instruction it gives the punishment according to this reward punishment and reward it train the machine
+
+
+5.Can you explain what a well-posed learning problem is? Explain the main characteristics that must
+be present to identify a learning problem properly
+
+Ans:-The program can learn from the experience when we give the task and gives the performance .
+lets break it into i.task ii.Performance Measure iii.Experience 
+
+consider on example face Recognisation system
+task:-Predicting the distint sorts of facess
+performance :- ability to anticipiate the largest number of different sort facess
+Experience:- ttrain the system eith as may datasets if varied facial photos as possible
+
+6. Is machine learning capable of solving all problems? Give a detailed explanation of your answer.
+
+Ans:-Yes can solve the all problem machine learning ,
+The structured data problem is solved in the machine learning ,
+machine learning gices the prediction accoreding the data . another type is the recognisation of various things
+deection can be done by the deep learning which is the subtype os the machine learning so we can say that we can solve all
+type of the problem in the machine larning
+
+7.What are the various methods and technologies for solving machine learning problems? Any two
+of them should be defined in detail
+
+Ans:-we have 3 type of approch to classify the machine learning
+1.according to the super vision like supervised ,unsupervised or reinforcemtn
+2.according to the how it is learned model based or instance based
+3.way of learning online of offline (batch learning)
+
+we can explain one of then take online learning and batch learning
+consider one senario of the model that we have to train after some specific time take it can be one month or
+one week or yerly according to need and in some case we have very volatile data that continously changes
+at that thime it is difficult to train the model repidly so here we use the online learning in which model take 
+quick responses according to that information it train by itself and gives the output
+and in other condition we train the model in ofline mode and then deployed into the server for working
+
+
+8.Can you explain the various forms of supervised learning? Explain each one with an example
+application
+
+ans:-supervised learning:- The data is used for this learning is the labeled .
+their are 2 subtype of this learning classification and regression 
+i.classification :-this type of learning can predict the discrete varible.
+ii.regression:-this type of learning contain the data which is continous type of variable
+
+
+9.What is the difference between supervised and unsupervised learning? With a sample application
+in each region, explain the differences.
+
+Ans:-The main main diffenrnce in the supervised learning and unsupervised learning is the data is labbled or not.
+in the the supervised learning we are creating the best fit line for the prediction of the data and in the unsupervised learning 
+we are creating the cluster to find out the pattern from the data
+supervised learning is used for the data which has the output prediction and unsupervised data used to detect the patterns
+superveised learning has various algorithems like linearregression simplelinearregression  and unsupervised learning has knn clustering
+
+
+10.Describe the machine learning process in depth
+i.MATLAB is one of the most widely used programming languages.
+ii.Deep learning applications in healthcare
+iii.Study of the market basket
+Iv.Linear regression (simple)
+
+
+Ans:-In the data science we are performing various operation in the data before we doing any operations
+1st we need to understand the data and that understanding is betterly undertand by visualization
+for that we have ine famous library matplotlib which is used in the python for visulation of the data 
+we can do various univarient,bivarient or multivarient analysis which results to take the decision to make the model
+of the better accuracy.
+
+
+
+ 11.
+ Ans:-
+  1. Generalization and abstraction
+
+ Generalization:-generalization is the ability to perform well on the new unseen data after being trained 
+ Abstraction:-dealing with ideas from specific instance 
+
+2. Learning that is guided and unsupervised
+ supervised :-the data is trained under the supervision 
+ unsupervised:- unsupervised is don't under any supervision 
+
+3. Regression and classification
+ Regression:-handling the continous type of variable 
+ classification:- handling the discrete type of feature
